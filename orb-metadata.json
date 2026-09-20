@@ -6,7 +6,7 @@
   "pointCount": 8,
   "language": "en",
   "canonical": "https://orbiversity.com/from-intention-to-action/",
-  "publicationStatus": "prepared",
+  "publicationStatus": "published",
   "sourceRegister": [
     {
       "id": "intentional",
@@ -117,7 +117,62 @@
     "type": "Book / publisher overview",
     "accessedAt": "2026-09-19"
   },
-  "checkedConnections": [],
+  "checkedConnections": [
+    {
+      "sourcePoint": {
+        "id": "from-intention-to-action-p02",
+        "title": "Separate a chosen value from an inherited demand"
+      },
+      "target": {
+        "id": "a-life-that-matters",
+        "url": "https://orbiversity.com/a-life-that-matters/",
+        "topic": "A Life That Matters"
+      },
+      "targetPoint": "a-life-that-matters-p07",
+      "relation": "association",
+      "label": "Put a chosen value to work",
+      "reason": "A direction becomes concrete through a contribution you can sustain. This is an editorial connection between two original exercises.",
+      "evidence": [
+        {
+          "url": "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf",
+          "title": "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32881540/",
+          "title": "Rewards of kindness? A meta-analysis of the link between prosociality and well-being"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15018681/",
+          "title": "Adaptive self-regulation of unattainable goals"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "from-intention-to-action-p06",
+        "title": "Return after a miss with a specific repair"
+      },
+      "target": {
+        "id": "the-beliefs-we-live-by",
+        "url": "https://orbiversity.com/the-beliefs-we-live-by/",
+        "topic": "The Beliefs We Live By"
+      },
+      "targetPoint": "the-beliefs-we-live-by-p06",
+      "relation": "association",
+      "label": "Find language you can believe",
+      "reason": "Returning after a missed action can pair with an accurate, usable statement about the next step.",
+      "evidence": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22645164/",
+          "title": "Self-compassion increases self-improvement motivation"
+        },
+        {
+          "url": "https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/wintersemester2011-12/seminarthemenfelderdersozialpsychologie/04_wood_etal_selfstatements_psychscience2009.pdf",
+          "title": "Positive Self-Statements: Power for Some, Peril for Others"
+        }
+      ]
+    }
+  ],
   "media": {
     "included": [
       {
