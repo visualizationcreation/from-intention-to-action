@@ -1,0 +1,423 @@
+{
+  "content": {
+    "contentVersion": 2,
+    "title": "From Intention to Action",
+    "scope": "Choose a worthwhile direction, turn it into a workable next step, and learn from what happens. Eight readings connect meaningful goals with practical follow-through.",
+    "visualQuery": "",
+    "intent": {
+      "subject": "From Intention to Action",
+      "direction": "Explore a practical self-development question through evidence and original exercises.",
+      "perspective": "A curious adult choosing small changes in everyday life.",
+      "origins": {
+        "subject": "stated",
+        "direction": "inferred",
+        "perspective": "inferred"
+      }
+    },
+    "form": "explore",
+    "axes": {
+      "x": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "The reading tree expresses broader and deeper questions; no unsupported spatial scale is assigned."
+      },
+      "y": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "The reading tree expresses broader and deeper questions; no unsupported spatial scale is assigned."
+      },
+      "z": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "The reading tree expresses broader and deeper questions; no unsupported spatial scale is assigned."
+      }
+    },
+    "readings": [
+      {
+        "id": "from-intention-to-action-p01",
+        "label": "Begin with a direction worth returning to",
+        "text": "A useful first move is to choose one direction you care about and one action small enough to try in your actual week. This ORB begins with Chris Bailey’s Intentional, whose publisher describes an approach to aligning daily action with values and following through on goals. These readings are an independently authored exploration, not a chapter-by-chapter account of that book.\n\nImagine wanting to become “more creative.” The phrase is attractive but leaves tomorrow undefined. Drawing one object after breakfast is a possible action; curiosity is a possible reason. Keeping the reason and the action separate lets you change the method without losing the direction. You are designing a returnable practice, not making a permanent judgment about your character.\n\nTry this — original exercise\n\nWrite one direction you care about, one reason it matters, and one action you could actually try tomorrow. Keep the first version modest.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "The broad question that anchors this authored learning path.",
+        "parent": -1,
+        "next": -1
+      },
+      {
+        "id": "from-intention-to-action-p02",
+        "label": "Separate a chosen value from an inherited demand",
+        "text": "Before refining a goal, ask whose approval gives it urgency. A value is a direction you want to express; a demand may be something you feel required to prove. Both can exist in the same project. You might enjoy learning a language while also feeling pressure to appear accomplished.\n\nSelf-determination theory distinguishes autonomous motivation from more controlled forms and emphasizes autonomy, competence and relatedness. That framework invites questions; it does not determine the right goal for you. Autonomy does not mean doing everything alone. A commitment can be freely endorsed and shared.\n\nOur suggested test is practical: if no one could see the achievement for a month, what part of the activity would still deserve time? The answer may reveal interest, care or a necessary responsibility rather than excitement.\n\nTry this — original exercise\n\nFinish three sentences: I want this because… I feel pushed because… The part I choose to keep is…",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "from-intention-to-action-p03",
+        "label": "Give the next action a recognizable moment",
+        "text": "“I will work on it soon” leaves both the moment and the action undecided. An if–then plan connects an observable situation to a specific response. For example: when I finish washing my breakfast cup, I will open the draft and write one rough sentence. This is more precise than a promise to become disciplined.\n\nSheeran and colleagues examined how these plans interact with goal intentions; planning was useful in relation to an active goal rather than as a substitute for wanting the outcome. A plan also needs a cue that actually occurs. If breakfast is unpredictable, another transition may fit better.\n\nTreat the first plan as a design attempt. It may fail because the cue is invisible, the action is too large or the time belongs to someone else. Those are editable details.\n\nTry this — original exercise\n\nChoose a recurring event in your day. Complete: When that happens, I will do this one visible action. Make the action possible in the setting you named.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "from-intention-to-action-p04",
+        "label": "Design for the obstacle you actually meet",
+        "text": "A plan becomes more realistic when it includes the situation that usually interrupts it. Suppose your intended action is to read two pages, but the book is upstairs and the phone is already in your hand. Calling this a motivation problem hides a simpler design question: what needs to be ready where the action happens?\n\nThis is an original planning exercise, not a finding that rearranging a room solves every obstacle. Some barriers involve money, health, care work or rules you cannot change by yourself. Separate adjustable friction from a resource problem that calls for support.\n\nUse an if–then structure for recovery as well as starting. If the usual time disappears, choose a smaller action at the next realistic opening. A fallback should reduce pressure, not create a second obligation you dread.\n\nTry this — original exercise\n\nName your most common obstacle. Mark it as adjustable, shared or outside your control. Change one adjustable detail, or name the support a shared problem requires.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 2,
+        "next": -1
+      },
+      {
+        "id": "from-intention-to-action-p05",
+        "label": "Measure what happened without making it a verdict",
+        "text": "A record can answer a small useful question: did the planned action occur? Harkin and colleagues synthesized experiments on progress monitoring and found that interventions encouraging monitoring improved goal attainment on average. That does not mean that every metric, streak or public scoreboard helps every person.\n\nChoose a measure close to the behavior you can influence. “Opened the document and wrote for ten minutes” is different from “produced brilliant work.” Keep space for context: a disrupted night, a difficult meeting or a changed priority can explain a blank without excusing or condemning it.\n\nOur proposed log has only three entries: attempted, obstacle, next adjustment. It is a private instrument for noticing patterns. If keeping the log takes more energy than the activity, simplify it before concluding that the entire practice is failing.\n\nTry this — original exercise\n\nFor three attempts, record what you tried, what got in the way and one adjustment. Look for a repeated condition rather than awarding yourself a character score.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "from-intention-to-action-p06",
+        "label": "Return after a miss with a specific repair",
+        "text": "Missing an action gives you information about one attempt, not a complete description of who you are. A helpful return asks what happened and what the next workable step is. It does not require pretending that the miss had no consequences.\n\nIn four experiments, Breines and Chen found that self-compassion could support motivation to improve after weaknesses or mistakes. These studies challenge the assumption that self-attack is always needed for change; they do not guarantee that a reassuring sentence changes a long-standing habit.\n\nAn original repair script is: “The plan did not happen. Here is the circumstance I can name. Here is the smaller return I can make.” If somebody else was affected, include an apology or a concrete repair. Kindness and responsibility can appear in the same response.\n\nTry this — original exercise\n\nDescribe one missed attempt using observable facts. Replace a global insult with one specific change to the next attempt. If another person was affected, include what you will repair.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 4,
+        "next": -1
+      },
+      {
+        "id": "from-intention-to-action-p07",
+        "label": "Let a method change while the value remains",
+        "text": "Persistence and flexibility are not enemies. You may care deeply about learning while recognizing that a particular course, deadline or routine no longer fits. The difficult question is whether you are avoiding ordinary discomfort or responding to a goal that has become unrealistic or too costly.\n\nResearch on goal disengagement and reengagement examines how letting go of unattainable goals and investing elsewhere relate to well-being. It does not provide a universal rule for when to stop. That judgment requires the actual costs, alternatives and responsibilities in front of you.\n\nConsider a person whose evening class repeatedly conflicts with caregiving. An asynchronous course may preserve the value of learning better than a heroic attendance promise. The revised path is a different method, not necessarily a smaller life. Name what you want to retain before deciding what to release.\n\nTry this — original exercise\n\nMake three columns: keep the value, change the method, release the demand. Put one current commitment through all three before deciding whether to continue it.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 1,
+        "next": -1
+      },
+      {
+        "id": "from-intention-to-action-p08",
+        "label": "Knowledge floor: will this plan help in your life?",
+        "text": "The research supports general tools under studied conditions. It cannot tell you in advance which combination will work in your schedule, for your chosen goal, over the next month. That is a personal evidence gap, not proof that research is useless or that science has reached a final boundary.\n\nTry a short observation period with one defined action and one modest measure. Record unusual circumstances. Afterwards, ask whether the plan became easier to begin, whether it served the original value and whether its cost was acceptable. A single good week cannot prove causation; mood, workload and novelty may have changed too.\n\nThe useful question is not “Am I disciplined?” It is “What would I keep, alter or stop after seeing this attempt?” A meaningful experiment ends with a decision, including permission to redesign.\n\nTry this — original exercise\n\nChoose one action for seven days and a review date. Before starting, write what evidence would persuade you to keep, modify or abandon this version of the plan.",
+        "kind": "question",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 4,
+        "next": -1
+      }
+    ],
+    "edges": [
+      {
+        "from": "from-intention-to-action-p01",
+        "to": "from-intention-to-action-p02",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Begin with a direction worth returning to.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "from-intention-to-action-p01",
+        "to": "from-intention-to-action-p03",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Begin with a direction worth returning to.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "from-intention-to-action-p03",
+        "to": "from-intention-to-action-p04",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Give the next action a recognizable moment.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "from-intention-to-action-p01",
+        "to": "from-intention-to-action-p05",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Begin with a direction worth returning to.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "from-intention-to-action-p05",
+        "to": "from-intention-to-action-p06",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Measure what happened without making it a verdict.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "from-intention-to-action-p02",
+        "to": "from-intention-to-action-p07",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Separate a chosen value from an inherited demand.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "from-intention-to-action-p05",
+        "to": "from-intention-to-action-p08",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Measure what happened without making it a verdict.",
+        "basis": "interpretation"
+      }
+    ],
+    "speakers": [],
+    "seam": {
+      "title": "",
+      "text": "",
+      "readings": []
+    },
+    "theme": {
+      "accent": "mist",
+      "atmosphere": "The shared Orbiversity pale blue studio."
+    },
+    "courseOrder": [],
+    "neighbors": [],
+    "sources": [
+      {
+        "title": "Intentional — Chris Bailey (2026)",
+        "url": "https://www.penguinrandomhouse.com/books/761228/intentional-by-chris-bailey/",
+        "publisher": "Penguin Life",
+        "readings": [
+          0
+        ]
+      },
+      {
+        "title": "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being",
+        "url": "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf",
+        "publisher": "Ryan & Deci · American Psychologist, 2000",
+        "readings": [
+          1
+        ]
+      },
+      {
+        "title": "The interplay between goal intentions and implementation intentions",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15574664/",
+        "publisher": "Sheeran, Webb & Gollwitzer · Personality and Social Psychology Bulletin, 2005",
+        "readings": [
+          2,
+          3,
+          7
+        ]
+      },
+      {
+        "title": "Does Monitoring Goal Progress Promote Goal Attainment?",
+        "url": "https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf",
+        "publisher": "Harkin et al. · Psychological Bulletin, 2016",
+        "readings": [
+          4,
+          7
+        ]
+      },
+      {
+        "title": "Self-compassion increases self-improvement motivation",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22645164/",
+        "publisher": "Breines & Chen · Personality and Social Psychology Bulletin, 2012",
+        "readings": [
+          5
+        ]
+      },
+      {
+        "title": "Adaptive self-regulation of unattainable goals",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15018681/",
+        "publisher": "Wrosch et al. · Personality and Social Psychology Bulletin, 2003",
+        "readings": [
+          6
+        ]
+      }
+    ]
+  },
+  "language": "en",
+  "museum": {
+    "attribution": "anonymous",
+    "category": "Self-Development",
+    "tags": [
+      "self-development",
+      "personal growth",
+      "goals"
+    ],
+    "library": [
+      {
+        "title": "Intentional — Chris Bailey (2026)",
+        "url": "https://www.penguinrandomhouse.com/books/761228/intentional-by-chris-bailey/",
+        "type": "Book / publisher overview",
+        "publisher": "Penguin Life",
+        "nodes": [
+          "from-intention-to-action-p01"
+        ]
+      },
+      {
+        "title": "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being",
+        "url": "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf",
+        "type": "Research",
+        "publisher": "Ryan & Deci · American Psychologist, 2000",
+        "nodes": [
+          "from-intention-to-action-p02"
+        ]
+      },
+      {
+        "title": "The interplay between goal intentions and implementation intentions",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15574664/",
+        "type": "Research",
+        "publisher": "Sheeran, Webb & Gollwitzer · Personality and Social Psychology Bulletin, 2005",
+        "nodes": [
+          "from-intention-to-action-p03",
+          "from-intention-to-action-p04",
+          "from-intention-to-action-p08"
+        ]
+      },
+      {
+        "title": "Does Monitoring Goal Progress Promote Goal Attainment?",
+        "url": "https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf",
+        "type": "Research",
+        "publisher": "Harkin et al. · Psychological Bulletin, 2016",
+        "nodes": [
+          "from-intention-to-action-p05",
+          "from-intention-to-action-p08"
+        ]
+      },
+      {
+        "title": "Self-compassion increases self-improvement motivation",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22645164/",
+        "type": "Research",
+        "publisher": "Breines & Chen · Personality and Social Psychology Bulletin, 2012",
+        "nodes": [
+          "from-intention-to-action-p06"
+        ]
+      },
+      {
+        "title": "Adaptive self-regulation of unattainable goals",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15018681/",
+        "type": "Research",
+        "publisher": "Wrosch et al. · Personality and Social Psychology Bulletin, 2003",
+        "nodes": [
+          "from-intention-to-action-p07"
+        ]
+      }
+    ],
+    "audio": []
+  },
+  "readingImages": [
+    {
+      "src": "https://orbiversity.com/from-intention-to-action/diagram.png",
+      "source": "https://orbiversity.com/from-intention-to-action/diagram.svg",
+      "title": "From Intention to Action — a practice map",
+      "caption": "Original explanatory diagram for this ORB. A suggested reflection sequence, not research data or a book illustration.",
+      "credit": "Orbiversity · original diagram authored with Codex",
+      "node": null,
+      "generated": false
+    }
+  ],
+  "reaches": []
+}
